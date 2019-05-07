@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="FACEBOOK_APP_ID">2411121345811630</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f638f9ea30707fed360c8fb44014681e</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
